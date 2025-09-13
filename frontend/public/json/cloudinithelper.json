@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu Cloud-Init VM",
+  "category": "VM",
+  "description": "Automates importing cloud-init ISOs and provisioning Ubuntu VMs.",
+  "url": "https://raw.githubusercontent.com/FootGod-bot/ProxmoxVE/main/vm/ubuntu-cloudinit-vm.sh"
+}
