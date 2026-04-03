@@ -6,7 +6,7 @@ Metadata (name, slug, description, logo, categories, etc.) controls how your app
 
 ## How to Request or Update Metadata
 
-1. **Go to the script on the website** — Open the [ProxmoxVE website](https://community-scripts.github.io/ProxmoxVE/), find your script (or the script you want to update).
+1. **Go to the script on the website** — Open the [ProxmoxVE website](https://footgod-bot.github.io/ProxmoxVE/), find your script (or the script you want to update).
 2. **Press the "Report issue" button** on that script’s page.
 3. **Follow the guide** — The flow will walk you through submitting or updating metadata.
 
